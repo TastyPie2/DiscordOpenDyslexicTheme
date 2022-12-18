@@ -1,16 +1,16 @@
 {
-  "id": "dev.replugged.ThemeTemplate",
-  "name": "Theme Template",
+    "id": "TastyPie2.DiscordOpenDyslexicTheme",
+    "name": "DiscordOpenDyslexicTheme",
   "description": "A theme template",
   "author": {
-    "name": "replugged",
-    "discordID": "1000992611840049192",
-    "github": "replugged-org"
+    "name": "TastyPastry2",
+      "discordID": "169438037443346433",
+    "github": "TastyPie2"
   },
   "version": "1.0.2",
   "updater": {
     "type": "github",
-    "id": "replugged-org/theme-template"
+    "id": "TastyPie2/DiscordOpenDyslexicTheme"
   },
   "license": "MIT",
   "type": "replugged-theme",
