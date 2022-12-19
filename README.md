@@ -1,6 +1,5 @@
-# Replugged theme template
-
-[Use this template](https://github.com/replugged-org/theme-template/generate)
+This theme is made to help people suffering from dyslexia like myself and other people i know,
+Use as you see fit.
 
 ## Prerequisites
 
@@ -10,14 +9,7 @@
 
 ## Install
 
-1. [Create a copy of this template](https://github.com/replugged-org/theme-template/generate)
-2. Clone your new repository and cd into it
-3. Install dependencies: `pnpm i`
-4. Build the theme: `pnpm run build`
-5. Reload Discord to load the theme
-
-The unmodified theme replaces the Discord font with the old Whitney font. Credit to
-[@overimagine1](https://github.com/Overimagine1/old-discord-font) for the snippet!
+Check release note.
 
 ## Development
 
