@@ -1,3 +1,4 @@
+## About
 This theme is made to help people suffering from dyslexia like myself and other people i know,
 Use as you see fit.
 
